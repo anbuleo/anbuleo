@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **mern stack**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/anbu-liyon-068352284/">linkedIn <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a>
+<a href="https://www.linkedin.com/in/anbu-liyon-068352284/">linkedIn <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="40" height="40" ></a>
 <p align="left">
 </p>
 
