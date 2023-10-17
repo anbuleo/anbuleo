@@ -11,7 +11,7 @@
 <p>+919003241548</p>
 <p>anbuliyon@gmail.com</p>
 <a href="https://www.linkedin.com/in/anbu-liyon-068352284/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="40" height="40" ></a>
-<a href="https://wa.me/9003241548"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsApp" width="40" height="40" ></a>
+<a href="https://wa.me/+919003241548"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsApp" width="40" height="40" ></a>
 <p align="left">
 </p>
 
